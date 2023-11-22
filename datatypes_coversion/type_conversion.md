@@ -1,5 +1,5 @@
 ## Data Type Conversion in JavaScript
-
+#
 Data type conversion, also known as type casting, is the process of converting a value from one data type to another. JavaScript is a dynamically typed language, which means that variables are not explicitly declared with a data type. Instead, JavaScript automatically infers the data type of a variable based on its initial value. However, there are times when you may need to explicitly convert a value from one data type to another.
 
 **Implicit Conversion**
