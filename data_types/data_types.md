@@ -1,6 +1,6 @@
 ## Data types in Javascript
 
-### **Primitive Data Types**
+### **Primitive Data Types** --
 
 Primitive data types are the most basic data types in JavaScript. They are immutable, meaning that their value cannot be changed after they are created.
 
