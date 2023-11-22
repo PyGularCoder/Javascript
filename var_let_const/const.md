@@ -1,4 +1,5 @@
-That's correct. The `const` keyword in JavaScript introduces a new way to declare variables that are immutable, meaning their values cannot be changed after they are initialized. This provides several benefits, including enhanced code readability, maintainability, and protection against accidental value modifications.
+## const
+The `const` keyword in JavaScript introduces a new way to declare variables that are immutable, meaning their values cannot be changed after they are initialized. This provides several benefits, including enhanced code readability, maintainability, and protection against accidental value modifications.
 
 Here's a summary of the key points about `const`:
 
